@@ -1,0 +1,166 @@
+{
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": { 
+        "editor.defaultFormatter": "esbenp.prettier-vscode" 
+    },
+    "breadcrumbs.enabled": true,
+    "debug.javascript.autoAttachFilter": "smart",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.colorDecorators": false,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 19,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.guides.bracketPairs":"active",
+    "editor.linkedEditing": true,
+    "editor.matchBrackets": "near",
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.quickSuggestions": {
+        "strings": true,
+        "comments": true,
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "selection",
+    "editor.rulers": [
+        110
+    ],
+    "editor.semanticHighlighting.enabled": true,
+    "editor.showFoldingControls": "always",
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "eslint.alwaysShowStatus": false,
+    "eslint.packageManager": "yarn",
+    "explorer.autoReveal": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.pypy": "python"
+    },
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.expo": true,
+        "**/.expo-shared": true,
+        "**/dist": true,
+        "**/esm": true,
+        "**/node_modules": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.watcherExclude": {
+        "**/migrations/**": true
+    },
+    "git.autofetch": true,
+    "gitConfigUser.profiles": [
+        {
+            "email": "Qfab87@bitbucket.org",
+            "label": "bitbucket_q87",
+            "selected": false,
+            "userName": "Nick"
+        },
+        {
+            "email": "burdukin@m-integration.com",
+            "label": "github.com_work",
+            "selected": true,
+            "userName": "Bur-m-integration"
+        }
+    ],
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "gitlens.menus": false,
+    "gitlens.mode.statusBar.enabled": false,
+    "javascript.suggest.names": false,
+    "javascript.validate.enable": false,
+    "jupyter.askForKernelRestart": false,
+    "jupyter.experiments.optOutFrom": [
+        "NativeNotebookEditor"
+    ],
+    "jupyter.sendSelectionToInteractiveWindow": false,
+    "material-icon-theme.activeIconPack": "react_redux",
+    "npm.packageManager": "yarn",
+    "prettier.tabWidth": 4,
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python38\\python.exe",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=110",
+        "--ignore=W293,E302,E266,W391,E402,E226,W291,E116,E502",
+    ],
+    "python.languageServer": "Pylance",
+    "python.showStartPage": false,
+    "python.terminal.activateEnvironment": false,
+    "remote.SSH.connectTimeout": 1200,
+    "search.exclude": {
+        "**/migrations": true
+    },
+    "search.mode": "reuseEditor",
+    "shellformat.path": "q:\\Soft\\VSCode\\shfmt_v2.6.4_windows_amd64.exe",
+    "terminal.external.windowsExec": "C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.inheritEnv": false,
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check",
+            "iconColour": "#9EFD38",
+            "foreground": "#000000",
+            "background": "#9EFD38"
+        },
+        "FIXME": {
+            "icon": "alert",
+            "iconColour": "#FFCC00",
+            "foreground": "#B12000",
+            "background": "#FFCC00"
+        }
+    },
+    "todo-tree.highlights.defaultHighlight": {
+        "type": "line"
+    },
+    "typescript.suggest.paths": false,
+    "typescript.validate.enable": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.menuBarVisibility": "compact",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#ffa6005b",
+        "editor.selectionHighlightBackground": "#ffff002a",
+    },
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.editor.decorations.badges": true,
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.panel.defaultLocation": "left",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "zenMode.hideTabs": false,
+}
