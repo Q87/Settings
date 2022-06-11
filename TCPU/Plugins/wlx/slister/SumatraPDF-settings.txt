@@ -1,0 +1,5 @@
+﻿FixedPageUI [
+	TextColor = #ffffff
+	BackgroundColor = #000000
+]
+MainWindowBackground = #80111200
