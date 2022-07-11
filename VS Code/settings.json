@@ -121,6 +121,7 @@
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.enableBell": true,
     "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.shellIntegration.enabled": true,
     "todo-tree.highlights.customHighlight": {
         "TODO": {
             "icon": "check",
@@ -141,6 +142,7 @@
     "typescript.suggest.paths": false,
     "typescript.validate.enable": true,
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.commandCenter": true,
     "window.menuBarVisibility": "compact",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
     "window.zoomLevel": 0,
